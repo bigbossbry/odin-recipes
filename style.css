@@ -1,0 +1,18 @@
+.recipe_link {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+ol {
+    background-color: #e9e3e3;
+}
+.ingredients {
+    background-color: aquamarine;
+}
+.description {
+    background-color: cornflowerblue;
+}
+img {
+    background-color: brown;
+    padding: 20px;
+}
